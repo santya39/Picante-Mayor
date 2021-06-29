@@ -8,7 +8,7 @@ import colorsys
 import random
 import time
 
-client = commands.Bot(command_prefix = '+', case_insensitive=True)
+client = commands.Bot(command_prefix = '#', case_insensitive=True)
 Client = discord.client
 Clientdiscord = discord.Client()
 
